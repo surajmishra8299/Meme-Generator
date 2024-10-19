@@ -1,4 +1,4 @@
-# Meme-Generator
+# Meme-Generator Using JAVASCRIPT
 
 # Project Overview
 This simple Meme Generator allows users to display wholesome memes on demand. The meme title, image, and author are fetched from an external API and displayed dynamically on the webpage. The design is clean and minimalistic, focusing on ease of use and a pleasant user experience.
